@@ -1,14 +1,4 @@
 {
   "index": "安阳古文",
-  "hongLouMeng": "红楼梦",
-  "about": {
-    "title": "关于",
-    "type": "page"
-  },
-  "contact": {
-    "title": "联系 ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "hongLouMeng": "红楼梦"
 }
