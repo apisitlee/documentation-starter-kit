@@ -1,4 +1,10 @@
 {
-  "index": "安阳古文",
-  "hongLouMeng": "红楼梦"
+  "index": {
+    "title": "首页",
+    "type": "page"
+  },
+  "hongLouMeng": {
+    "title": "红楼梦",
+    "type": "page"
+  }
 }
