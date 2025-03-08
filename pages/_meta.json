@@ -1,13 +1,12 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "古文目录",
+  "hongLouMeng": "红楼梦",
   "about": {
-    "title": "About",
+    "title": "关于",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系 ↗",
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
